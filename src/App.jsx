@@ -297,8 +297,8 @@ export default function LandingPage() {
             {[
               {
                 name: "Basic",
-                price: "20TND",
-                period: "/user/month",
+                price: "300TND",
+                // period: "/user/month",
                 features: [
                   "Up to 20 users",
                   "Monthly phishing simulations",
@@ -310,8 +310,8 @@ export default function LandingPage() {
               },
               {
                 name: "Pro",
-                price: "7TND",
-                period: "/user/month",
+                price: "1500TND",
+                // period: "/user/month",
                 features: [
                   "Up to 500 users",
                   "Weekly phishing simulations",
